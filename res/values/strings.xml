@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Balloons Live! Wallpaper</string>
+	<string name="app_summary">Relaxing balloons drifting into the air on sunny days.</string>
+	<string name="features">More features coming soon!</string>
+	<string name="company_website">www.reaction-apps.com</string>
+<string-array name="balloon_colors"><item>blue</item>
+<item>cyan</item>
+<item>dark blue</item>
+<item>fuchsia</item>
+<item>green</item>
+<item>light green</item>
+<item>orange</item><item>purple</item>
+
+<item>red</item>
+<item>yellow</item>
+<item>random</item>
+</string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<ImageView android:id="@+id/ImageView01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" android:src="@drawable/ra_logo"></ImageView>
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" android:text="@string/features"></TextView>
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:autoLink="web" android:layout_gravity="center_horizontal" android:text="@string/company_website"></TextView>
+<CheckBox android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/pop" android:text="Disable popping"></CheckBox><ListView android:layout_height="wrap_content" android:id="@+id/options" android:layout_width="fill_parent" android:layout_marginBottom="40dp">
+</ListView>
+
+</LinearLayout>
